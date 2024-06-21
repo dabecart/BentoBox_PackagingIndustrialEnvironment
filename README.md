@@ -2,6 +2,9 @@ Master's thesis // TFM
 ================
 *By Daniel Béjar Caballero, 2024.*
 
+# Video presentation/Video de la presentación
+[Link](https://youtu.be/DL5C0s1oAG4)
+
 # Language/Lenguaje
 - [Español](#descripcion-del-proyecto)
 - [English](#projects-description)
